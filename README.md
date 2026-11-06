@@ -12,7 +12,9 @@ it touches is out.
 This repository hosts the game's website (GitHub Pages):
 
 | Home | https://yeonggwoncho-create.github.io/PaperFoldBattle
+
 | Support | https://yeonggwoncho-create.github.io/PaperFoldBattle/support.html
+
 | Privacy Policy | https://yeonggwoncho-create.github.io/PaperFoldBattle/privacy.html
 
 ## Features
