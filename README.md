@@ -19,12 +19,12 @@ This repository hosts the game's website (GitHub Pages):
 
 ## Features
 
-- **Play with a friend online.** Create a room, share the 6-character code, and play on two phones. No account needed.
+- **Play in Room.** Create a room, share the 6-character code, and play on two phones. No account needed.
 - **Memory battle.** Enemy soldiers are shown for 3 seconds, then hidden.
-- **One peek per round.** See the enemy again for 2 seconds, but it costs your attack.
-- **Best of 3.** Wipe out all 5 enemy soldiers to win a round; the first to win 2 rounds wins the match.
+- **Fair-play Peeks.** See the enemy again for 2 seconds, but it costs your attack. The first attacker gets 3 Peeks; the player going second gets 4.
+- **Last army standing.** Wipe out all 5 enemy soldiers to win the battle.
 - **Custom sizes.** The host sets the soldier and ink-dot size with live sliders.
-- **Play Alone and Local Two-Player** work fully offline.
+- **Play in One Screen** works fully offline.
 
 ## How to play
 
